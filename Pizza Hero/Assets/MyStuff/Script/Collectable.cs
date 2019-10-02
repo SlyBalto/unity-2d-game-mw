@@ -14,7 +14,6 @@ public class Collectable : MonoBehaviour
             HandleCollected();
         }
     }
-
     void HandleCollected() {
 
         _hasbeencollected = true;
